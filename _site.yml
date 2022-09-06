@@ -2,7 +2,7 @@ name: "Project 0 website"
 title: "Kenna Sherman"
 description: |
   My Website BioStat776
-output_dir: "_site"
+output_dir: "."
 navbar:
   right:
     - text: "Home"
