@@ -11,13 +11,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ```{r picture, echo=FALSE, fig.align = 'center', out.width='50%', out.height='50%'}
-knitr::include_graphics("Kenna.jpeg")
+knitr::include_graphics("Kenna2.jpeg")
 ```
 
 
 ## About Me
 
-I'm a third year Human Genetics PhD student. As a wet lab researcher, I only know the basics of coding in R and statistics, but I’m looking forward to learning more throughout this course!
+I'm a third year Human Genetics PhD student. As a wet lab researcher, I only know the basics of coding in R and statistics, but I’m looking forward to learning more throughout this course!!
 
 ## Research Interests
 

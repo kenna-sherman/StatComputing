@@ -6,6 +6,6 @@ description: null
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-I love baking and I’m also vegan. Here are some of my favorite ways to make any recipe vegan!
+I love baking and I’m also vegan. Here are some of my favorite ways to make any recipe vegan!!
 
 https://www.livekindly.com/guide-vegan-baking-substitutes/
