@@ -3,6 +3,7 @@ title: "Kenna Sherman Intro"
 description: |
   An intro to Kenna Sherman for BioStat 776!
 site: distill::distill_website
+output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}

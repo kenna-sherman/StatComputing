@@ -1,6 +1,8 @@
 ---
 title: "Something Interesting"
 description: null
+site: distill::distill_website
+output: distill::distill_article
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
